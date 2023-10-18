@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: tibco-developer-hub-templates-locations
+spec:
+  targets:
+    - ./template-bookstore.yaml
